@@ -14,9 +14,6 @@
 (function() {
     'use strict';
 
-    // Your code here...
-   // $(document).ready(function() { alert('WINNING');});
-
     // Targeting the name element and logging it into the console
     var activeAccount = (document.getElementsByClassName("ThRjn7o-KwO0459UzmvoU w8Kxy2XztOAkWobGpdJLt")[0]).textContent;
     console.log("activeAccount = ", activeAccount);

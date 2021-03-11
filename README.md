@@ -1,0 +1,1 @@
+# aws-spider - Browser extension
